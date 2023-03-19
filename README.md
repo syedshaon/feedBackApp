@@ -1,3 +1,4 @@
+# npm run dev to run server and applicaton at the same time
 # npm run server to run mock server
 
 # Getting Started with Create React App
