@@ -17,3 +17,5 @@ root.render(
 );
 
 
+// npm run server to run mock server
+
